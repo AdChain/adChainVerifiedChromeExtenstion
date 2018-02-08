@@ -10,4 +10,5 @@ ______________________________________
     - Make sure you zip up the contents inside and not just the parent directory
 
 Note: you cannot have inline scripts (js) in your HTML. Must reference a file.
+
 Example:  `<script src="chrome_script.js"></script>`
