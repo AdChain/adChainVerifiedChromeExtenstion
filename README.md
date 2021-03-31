@@ -1,5 +1,5 @@
 # adChainVerifiedChromeExtenstion
-Chrome Extension that will show if the current site being viewed is in the adChain Registry
+Chrome Extension that detects if the current site being viewed is in the adChain Registry
 
 ### Installation:
 
